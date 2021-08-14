@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "D:\\Users\\LUIZGUILHERMEDOSSANT\\.nuget\\packages\\": {}
+    "C:\\Users\\heito\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\LUIZGUILHERMEDOSSANT\\Desktop\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
+      "projectUniqueName": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
       "projectName": "WebPonto",
-      "projectPath": "D:\\Users\\LUIZGUILHERMEDOSSANT\\Desktop\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
-      "packagesPath": "D:\\Users\\LUIZGUILHERMEDOSSANT\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\LUIZGUILHERMEDOSSANT\\Desktop\\Web-Ponto\\WebPonto\\WebPonto\\obj\\",
+      "projectPath": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
+      "packagesPath": "C:\\Users\\heito\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "D:\\Users\\LUIZGUILHERMEDOSSANT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\heito\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
