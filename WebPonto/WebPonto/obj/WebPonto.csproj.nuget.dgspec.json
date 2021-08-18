@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj": {}
+    "C:\\Repos\\web-ponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj": {
+    "C:\\Repos\\web-ponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
+        "projectUniqueName": "C:\\Repos\\web-ponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
         "projectName": "WebPonto",
-        "projectPath": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
-        "packagesPath": "C:\\Users\\heito\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\heito\\Documents\\Repositorios\\webponto\\Web-Ponto\\WebPonto\\WebPonto\\obj\\",
+        "projectPath": "C:\\Repos\\web-ponto\\Web-Ponto\\WebPonto\\WebPonto\\WebPonto.csproj",
+        "packagesPath": "C:\\Users\\Sh4u\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\web-ponto\\Web-Ponto\\WebPonto\\WebPonto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\heito\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sh4u\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
